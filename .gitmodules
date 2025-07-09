@@ -1,0 +1,3 @@
+[submodule "module-01/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/dio-lab-open-source"]
+	path = module-01/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/dio-lab-open-source
+	url = https://github.com/filipebezerra/dio-lab-open-source.git
