@@ -104,3 +104,23 @@ You can check for more info:
 #### Clone repository locally
 
 `git clone https://github.com/filipebezerra/santander-2025-python-back-end.git`
+
+#### Revert changes in the Working Directory
+
+`git restore <file>`
+
+#### Revet changes in the Staging Area
+
+`git restore --stage <file>`
+
+#### Revert changes in the repository and mark to be committed
+
+`git reset --soft <commit>`
+
+#### Revert changes in the repository and not marked for commit
+
+`git reset [--mixed] <commit>`
+
+#### Revert changes in the repository and discard changes
+
+`git reset --hard <commit>`
